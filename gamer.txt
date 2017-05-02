@@ -1,0 +1,1 @@
+{"p":{"_name":"Nando","_health":20.0,"_mana":15.0,"_gold":30.0,"equipment":{"Slingshot":45,"Rocks":70,"Arrows":80}},"filename":{"path":"gamer.txt"}}
